@@ -3,6 +3,6 @@
         "sounds": ["custom/charging"]
     },
     "chaos_explosion": {
-        "sounds": ["custom/explosion"]
+        "sounds": ["custom/explosion1"]
     }
 }
