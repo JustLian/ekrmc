@@ -4,5 +4,14 @@
     },
     "chaos_explosion": {
         "sounds": ["custom/explosion"]
+    },
+    "chaos_lazer": {
+        "sounds": ["custom/lazer3"]
+    },
+    "metal_amb": {
+        "sounds": ["custom/metal0", "custom/metal1", "custom/metal2", "custom/metal3"]
+    },
+    "dark_shadows": {
+        "sounds": ["custom/music1"]
     }
 }
