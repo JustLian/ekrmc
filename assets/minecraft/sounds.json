@@ -1,0 +1,8 @@
+{
+    "chaos_charging": {
+        "sounds": ["custom/charging"]
+    },
+    "chaos_explosion": {
+        "sounds": ["custom/explosion"]
+    }
+}
