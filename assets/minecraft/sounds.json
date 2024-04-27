@@ -13,5 +13,11 @@
     },
     "dark_shadows": {
         "sounds": ["custom/music1"]
+    },
+    "portal": {
+        "sounds": ["custom/portal"]
+    },
+    "dark_fantasy": {
+        "sounds": ["custom/Dark-Fantasy"]
     }
 }
