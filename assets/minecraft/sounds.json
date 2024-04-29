@@ -19,5 +19,8 @@
     },
     "dark_fantasy": {
         "sounds": ["custom/Dark-Fantasy"]
+    },
+    "rising_dirt": {
+        "sounds": ["custom/rising_dirt"]
     }
 }
