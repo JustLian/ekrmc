@@ -1,26 +1,23 @@
 {
-    "chaos_charging": {
-        "sounds": ["custom/charging"]
+    "voiceline.suzume.start": {
+        "sounds": ["custom/suzume_start"]
     },
-    "chaos_explosion": {
-        "sounds": ["custom/explosion"]
+    "voiceline.suzume.ability": {
+        "sounds": ["custom/suzume_ability"]
     },
-    "chaos_lazer": {
-        "sounds": ["custom/lazer3"]
+    "voiceline.suzume.victory": {
+        "sounds": ["custom/suzume_victory"]
     },
-    "metal_amb": {
-        "sounds": ["custom/metal0", "custom/metal1", "custom/metal2", "custom/metal3"]
+    "voiceline.dimitri.start": {
+        "sounds": ["custom/dimitri_start"]
     },
-    "dark_shadows": {
-        "sounds": ["custom/music1"]
+    "voiceline.dimitri.ability": {
+        "sounds": ["custom/dimitri_ability"]
     },
-    "portal": {
-        "sounds": ["custom/portal"]
+    "voiceline.dimitri.victory": {
+        "sounds": ["custom/dimitri_victory"]
     },
-    "dark_fantasy": {
-        "sounds": ["custom/Dark-Fantasy"]
-    },
-    "rising_dirt": {
-        "sounds": ["custom/rising_dirt"]
+    "cmusic.nefor.breakcore": {
+        "sounds": ["custom/nefor-breakcore"]
     }
 }
